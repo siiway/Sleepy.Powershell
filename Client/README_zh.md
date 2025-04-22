@@ -1,5 +1,7 @@
 # Sleepy PowerShell 客户端
 
+[中文简体](Client/README_zh.md) | [English](Client/README.md)
+
 一个基于 PowerShell 的 Sleepy API 客户端，在后台运行并定期发送"在线"状态，将前台窗口标题作为应用程序名称。当脚本关闭时，会自动发送"离线"状态。
 
 ## 功能

@@ -1,5 +1,7 @@
 # Sleepy PowerShell Client
 
+[中文简体](Client/README_zh.md) | [English](Client/README.md)
+
 A PowerShell-based client for the Sleepy API that runs in the background and periodically sends "online" status with the foreground window title as the application name. When the script is closed, it automatically sends an "offline" status.
 
 ## Features
