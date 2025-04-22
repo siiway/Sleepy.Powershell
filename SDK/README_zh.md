@@ -1,6 +1,6 @@
 # Sleepy PowerShell SDK
 
-[中文简体](SDK/README_zh.md) | [English](SDK/README.md)
+[中文简体](README_zh.md) | [English](README.md)
 
 用于与 Sleepy API 交互的 PowerShell SDK。该 SDK 提供了一种简单直观的方式将 Sleepy 功能集成到您的 PowerShell 脚本和应用程序中。
 

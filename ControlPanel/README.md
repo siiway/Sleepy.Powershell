@@ -1,6 +1,6 @@
 # Sleepy PowerShell Control Panel
 
-[中文简体](ControlPanel/README_zh.md) | [English](ControlPanel/README.md)
+[中文简体](README_zh.md) | [English](README.md)
 
 A PowerShell-based control panel for managing the Sleepy API. This control panel provides a user-friendly interface to interact with Sleepy, allowing you to manage your status, devices, and other settings.
 

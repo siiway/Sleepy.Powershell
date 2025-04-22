@@ -1,6 +1,6 @@
 # Sleepy PowerShell 控制面板
 
-[中文简体](ControlPanel/README_zh.md) | [English](ControlPanel/README.md)
+[中文简体](ControlPanel/README_zh.md) | [English](README.md)
 
 一个基于 PowerShell 的控制面板，用于管理 Sleepy API。该控制面板提供了一个用户友好的界面来与 Sleepy 交互，允许您管理状态、设备和其他设置。
 
