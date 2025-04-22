@@ -1,5 +1,7 @@
 # Sleepy PowerShell Tools
 
+[中文简体](README_zh.md) | [English](README.md)
+
 A comprehensive suite of PowerShell tools for interacting with the Sleepy API. This project includes an SDK, background client, and control panel for managing your Sleepy presence.
 
 ## Components
@@ -108,6 +110,9 @@ Each component has its own detailed README:
 - [Control Panel Documentation](ControlPanel/README.md)
 
 ## Project Structure
+
+> [!NOTE]
+> Different language versions of the README file aren't included in the project structure.
 
 ```
 sleepy-powershell/

@@ -1,5 +1,7 @@
 # Sleepy PowerShell 工具集
 
+[中文简体](README_zh.md) | [English](README.md)
+
 一套完整的 PowerShell 工具集，用于与 Sleepy API 交互。本项目包含 SDK、后台客户端和控制面板，用于管理您的 Sleepy 状态。
 
 ## 组件
@@ -108,6 +110,9 @@
 - [控制面板文档](ControlPanel/README_zh.md)
 
 ## 项目结构
+
+> [!NOTE]
+> 项目结构中不包含 README 文件的不同语言版本。
 
 ```
 sleepy-powershell/
