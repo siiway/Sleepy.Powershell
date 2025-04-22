@@ -38,7 +38,7 @@ A user-friendly interface for managing Sleepy settings and status:
 
 1. Clone this repository:
    ```powershell
-   git clone https://github.com/yourusername/sleepy-powershell.git
+   git clone https://github.com/siiway/sleepy-powershell.git
    ```
 
 2. Ensure PowerShell execution policy allows running scripts:
@@ -75,7 +75,7 @@ Each component stores its configuration in a JSON file:
 Default configuration:
 ```json
 {
-    "ApiUrl": "http://localhost:8080",
+    "ApiUrl": "http://localhost:9010",
     "Secret": "YourSecretHere",
     "DebugMode": false,
     "FullDebugMode": false,
